@@ -12,20 +12,24 @@
         "text": "TEST!"
     },
     "3": {
-        "user": "Joe",
-        "text": "When I delete a chirp is it supposed to update the id #'s?!"
+        "user": "USER3",
+        "text": "TEST3"
     },
     "4": {
         "user": "Deli",
         "text": "I'm posting my chirp!"
     },
     "5": {
-        "user": "Boe",
-        "text": "Test chirp update"
+        "user": "USER",
+        "text": "TEST"
     },
     "6": {
         "user": "Boe",
         "text": "My request keeps saying 'sending request'. It is working, but not saying that it is on Postman"
     },
-    "nextid": 7
+    "7": {
+        "user": "USER",
+        "text": "TEST"
+    },
+    "nextid": 8
 }
