@@ -1,0 +1,31 @@
+{
+    "0": {
+        "user": "Ellie",
+        "text": "Hello World!"
+    },
+    "1": {
+        "user": "cool guy",
+        "text": "how are you?"
+    },
+    "2": {
+        "user": "ellen",
+        "text": "TEST!"
+    },
+    "3": {
+        "user": "Joe",
+        "text": "When I delete a chirp is it supposed to update the id #'s?!"
+    },
+    "4": {
+        "user": "Deli",
+        "text": "I'm posting my chirp!"
+    },
+    "5": {
+        "user": "Boe",
+        "text": "Test chirp update"
+    },
+    "6": {
+        "user": "Boe",
+        "text": "My request keeps saying 'sending request'. It is working, but not saying that it is on Postman"
+    },
+    "nextid": 7
+}
